@@ -1,0 +1,2 @@
+language = "undefined"
+run = "javac VisitorTest.java && java VisitorTest"
